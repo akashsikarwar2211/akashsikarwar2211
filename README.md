@@ -51,15 +51,6 @@
 
 ---
 
-## 📈 Git Engine Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsikarwar2211&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Akash's Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsikarwar2211&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="48%">
-</p>
-
----
-
 ## 💼 Industry Experience
 
 ### **Dotnitron** — *Software Development Intern* | Jan 2025 – Mar 2025
